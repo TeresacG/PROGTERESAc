@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572540400 source:c:\users\lenovo\desktop\intermedio_4\intermdio_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
